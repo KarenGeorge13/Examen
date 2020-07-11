@@ -1,0 +1,10 @@
+C:\Users\karli\source\repos\ExamProject\ExamProject\bin\Debug\ExamProject.exe.config
+C:\Users\karli\source\repos\ExamProject\ExamProject\bin\Debug\ExamProject.exe
+C:\Users\karli\source\repos\ExamProject\ExamProject\bin\Debug\ExamProject.pdb
+C:\Users\karli\source\repos\ExamProject\ExamProject\obj\Debug\ExamProject.csprojAssemblyReference.cache
+C:\Users\karli\source\repos\ExamProject\ExamProject\obj\Debug\ExamProject.Form1.resources
+C:\Users\karli\source\repos\ExamProject\ExamProject\obj\Debug\ExamProject.Properties.Resources.resources
+C:\Users\karli\source\repos\ExamProject\ExamProject\obj\Debug\ExamProject.csproj.GenerateResource.cache
+C:\Users\karli\source\repos\ExamProject\ExamProject\obj\Debug\ExamProject.csproj.CoreCompileInputs.cache
+C:\Users\karli\source\repos\ExamProject\ExamProject\obj\Debug\ExamProject.exe
+C:\Users\karli\source\repos\ExamProject\ExamProject\obj\Debug\ExamProject.pdb
